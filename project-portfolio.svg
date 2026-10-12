@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="274" viewBox="0 0 480 274" role="img" aria-label="Interactive Portfolio">
+<title>Interactive Portfolio</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17182F"/><stop offset="1" stop-color="#101326"/></linearGradient><linearGradient id="edge"><stop stop-color="#93BCFF"/><stop offset="1" stop-color="#C399FF"/></linearGradient><radialGradient id="glow"><stop stop-color="#93BCFF" stop-opacity=".16"/><stop offset="1" stop-color="#93BCFF" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="478" height="272" rx="20" fill="url(#bg)" stroke="#34364F"/>
+<circle cx="441" cy="68" r="146" fill="url(#glow)"/>
+<path d="M24 1H456" stroke="url(#edge)" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="28" y="34" font-size="11" font-weight="600" letter-spacing="1.8" fill="#93BCFF">04 / FRONTEND × INTERACTION</text>
+<text x="28" y="78" font-size="27" font-weight="700" fill="#F3F2FF">Interactive Portfolio</text>
+<text x="28" y="119" font-size="16" fill="#C8C9DD">A little motion. A third dimension.</text>
+<text x="28" y="143" font-size="16" fill="#C8C9DD">Explore the work in the browser.</text>
+<text x="28" y="187" font-size="13" font-weight="600" fill="#93BCFF">EXPLORE PROJECT</text><path d="M160 183H180M174 177L180 183L174 189" fill="none" stroke="#93BCFF" stroke-width="1.5"/>
+<rect x="28" y="220" width="60" height="26" rx="13" fill="#93BCFF" fill-opacity=".10" stroke="#93BCFF" stroke-opacity=".22"/><text x="40" y="237" font-size="12" fill="#93BCFF">React</text><rect x="96" y="220" width="81.6" height="26" rx="13" fill="#93BCFF" fill-opacity=".10" stroke="#93BCFF" stroke-opacity=".22"/><text x="108" y="237" font-size="12" fill="#93BCFF">Three.js</text><rect x="185.6" y="220" width="117.60000000000001" height="26" rx="13" fill="#93BCFF" fill-opacity=".10" stroke="#93BCFF" stroke-opacity=".22"/><text x="197.6" y="237" font-size="12" fill="#93BCFF">Framer Motion</text>
+</g><g opacity=".22"><ellipse cx="416" cy="107" rx="37" ry="16" fill="none" stroke="#93BCFF" stroke-width="1.5" transform="rotate(-30 416 107)"/><ellipse cx="416" cy="107" rx="37" ry="16" fill="none" stroke="#93BCFF" stroke-width="1.5" transform="rotate(30 416 107)"/><circle cx="416" cy="107" r="7" fill="#93BCFF"/></g>
+<circle cx="454" cy="28" r="3" fill="#93BCFF"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></circle>
+</svg>
