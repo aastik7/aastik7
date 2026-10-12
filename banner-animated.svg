@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Aastik Dubey. Full-stack developer. Web applications. Applied AI.">
+<title>Aastik Dubey — Full-stack developer</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171044"/><stop offset=".5" stop-color="#11172F"/><stop offset="1" stop-color="#261444"/></linearGradient>
+<linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EEBFF"/><stop offset=".35" stop-color="#9A80FF"/><stop offset=".7" stop-color="#FA74CB"/><stop offset="1" stop-color="#FFB48C"/></linearGradient>
+<radialGradient id="pink"><stop stop-color="#DB45BA" stop-opacity=".29"/><stop offset="1" stop-color="#DB45BA" stop-opacity="0"/></radialGradient>
+<radialGradient id="cyan"><stop stop-color="#42CAEF" stop-opacity=".23"/><stop offset="1" stop-color="#42CAEF" stop-opacity="0"/></radialGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="6"/></filter>
+<clipPath id="clip"><rect width="1200" height="400" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="400" rx="22" fill="url(#bg)"/>
+<circle cx="958" cy="117" r="325" fill="url(#pink)"><animate attributeName="cx" values="958;850;958" dur="12s" repeatCount="indefinite"/></circle>
+<circle cx="718" cy="333" r="270" fill="url(#cyan)"><animate attributeName="cy" values="333;200;333" dur="14s" repeatCount="indefinite"/></circle>
+<path d="M0 399H1200" stroke="url(#rainbow)" stroke-width="3"/>
+<g fill="#B2A9DA" opacity=".22"><circle cx="649" cy="45" r="1.4"/><circle cx="1141" cy="70" r="1.5"/><circle cx="691" cy="275" r="1.6"/><circle cx="1107" cy="331" r="1.5"/><circle cx="1001" cy="374" r="1.3"/><circle cx="827" cy="20" r="1.4"/><circle cx="710" cy="127" r="1.2"/></g>
+<g transform="translate(924 205)">
+<g fill="none" stroke="url(#rainbow)">
+<g opacity=".40" filter="url(#soft)"><ellipse rx="177" ry="93" stroke-width="17" transform="rotate(-32)"/><ellipse rx="170" ry="89" stroke-width="15" transform="rotate(48)"/></g>
+<g><animateTransform attributeName="transform" type="rotate" values="0;360" dur="30s" repeatCount="indefinite"/>
+<ellipse rx="179" ry="96" stroke-width="2.2" transform="rotate(-32)"/>
+<ellipse rx="173" ry="90" stroke-width="1.4" transform="rotate(-25)" opacity=".60"/>
+<ellipse rx="165" ry="82" stroke-width="1.1" transform="rotate(-18)" opacity=".35"/>
+<ellipse rx="167" ry="83" stroke-width="2.8" transform="rotate(48)"/>
+<ellipse rx="175" ry="91" stroke-width="1.3" transform="rotate(56)" opacity=".7"/>
+<ellipse rx="182" ry="99" stroke-width="1" transform="rotate(64)" opacity=".4"/>
+</g>
+<circle r="122" stroke-width="1" stroke-dasharray="2 15" opacity=".5"><animateTransform attributeName="transform" type="rotate" values="360;0" dur="40s" repeatCount="indefinite"/></circle>
+</g>
+<g fill="#83F2F3"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="14s" repeatCount="indefinite"/><circle cx="0" cy="-122" r="5"/><circle cx="0" cy="-122" r="10" opacity=".16"/></g>
+<g fill="#FF96CF"><animateTransform attributeName="transform" type="rotate" values="120;480" dur="20s" repeatCount="indefinite"/><circle cx="0" cy="-160" r="4"/><circle cx="0" cy="-160" r="9" opacity=".18"/></g>
+<g font-family="Consolas,monospace" text-anchor="middle"><text y="10" font-size="40" fill="#E8DFFF" font-weight="600">&lt;/&gt;</text></g>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="70" font-size="15" font-weight="600" letter-spacing="4" fill="#BCABFF">FULL-STACK DEVELOPER</text>
+<text x="60" y="151" font-size="70" font-weight="750" letter-spacing="-2" fill="#F7F4FF">AASTIK DUBEY</text>
+<text x="64" y="208" font-size="27" fill="#C9C6E8">Web applications. Applied AI.</text>
+<rect x="64" y="250" width="126" height="34" rx="17" fill="#A58AFF" fill-opacity=".13" stroke="#A58AFF" stroke-opacity=".45"/>
+<text x="127" y="272" text-anchor="middle" font-size="13" font-weight="600" fill="#C8B5FF">BUILD</text>
+<rect x="203" y="250" width="126" height="34" rx="17" fill="#60DED5" fill-opacity=".11" stroke="#60DED5" stroke-opacity=".40"/>
+<text x="266" y="272" text-anchor="middle" font-size="13" font-weight="600" fill="#85E9E2">CONNECT</text>
+<rect x="342" y="250" width="126" height="34" rx="17" fill="#F68BC3" fill-opacity=".11" stroke="#F68BC3" stroke-opacity=".40"/>
+<text x="405" y="272" text-anchor="middle" font-size="13" font-weight="600" fill="#FFA4D8">EXPLORE</text>
+<text x="64" y="351" font-size="14" letter-spacing="1" fill="#8585AD">aastik7 / code, craft &amp; curiosity</text>
+</g>
+</g></svg>
